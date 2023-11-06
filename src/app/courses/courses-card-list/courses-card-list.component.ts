@@ -17,7 +17,7 @@ export class CoursesCardListComponent implements OnInit {
 
     @Output()
     courseChanged = new EventEmitter();
-
+//xzczxczczx
     constructor(
       private dialog: MatDialog,
       private courseService: CourseEntityService) {
